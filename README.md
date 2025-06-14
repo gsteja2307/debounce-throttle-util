@@ -1,4 +1,4 @@
-# debounce-throttle-utils
+# debounce-throttle-util
 [![NPM version](https://img.shields.io/npm/v/debounce-throttle-util.svg)](https://www.npmjs.com/package/debounce-throttle-util)
 [![NPM downloads](https://img.shields.io/npm/dm/debounce-throttle-util.svg)](https://www.npmjs.com/package/debounce-throttle-util)
 [![GitHub stars](https://img.shields.io/github/stars/gsteja2307/debounce-throttle-util.svg)](https://github.com/gsteja2307/debounce-throttle-util/stargazers)
