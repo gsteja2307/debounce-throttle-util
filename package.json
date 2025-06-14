@@ -1,0 +1,33 @@
+{
+  "name": "debounce-throttle-util",
+  "version": "1.0.0",
+  "description": "A tiny, dependency-free debounce/throttle utility for browser or Node.js.",
+  "main": "debounceThrottle.js",
+  "module": "debounceThrottle.mjs",
+  "exports": {
+    ".": {
+      "require": "./debounceThrottle.js",
+      "import": "./debounceThrottle.mjs"
+    }
+  },
+  "types": "./debounceThrottle.d.ts",
+  "keywords": [
+    "debounce",
+    "throttle",
+    "react",
+    "node",
+    "javascript",
+    "utility"
+  ],
+  "author": "https://github.com/gsteja2307",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsteja2307/debounce-throttle-util"
+  },
+  "files": [
+    "debounceThrottle.js",
+    "debounceThrottle.mjs",
+    "debounceThrottle.d.ts"
+  ]
+}
