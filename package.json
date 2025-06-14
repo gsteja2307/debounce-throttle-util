@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttle-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny, dependency-free debounce/throttle utility for browser or Node.js.",
   "main": "debounceThrottle.js",
   "module": "debounceThrottle.mjs",
